@@ -1,0 +1,27 @@
+{
+  "name": "eletest",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.3.1",
+    "@tsparticles/vue3": "^3.0.1",
+    "element-plus": "^2.7.2",
+    "tsparticles": "^3.3.0",
+    "tsparticles-engine": "^2.12.0",
+    "vue": "^3.4.21",
+    "vue-router": "^4.3.0",
+    "vue3-particles": "^2.12.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "less": "^4.2.0",
+    "unplugin-element-plus": "^0.8.0",
+    "vite": "^5.2.10"
+  }
+}
